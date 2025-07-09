@@ -59,6 +59,9 @@ mongoose.connect(process.env.MONGO_URI)
 
 // Models
 const EmployeeModel = require("./models/Employee");
+app.get('/', (req, res) => {
+  res.send('✅ Server is live and MongoDB is connected!');
+});
 
 // Login Route
 app.post("/login", (req, res) => {
