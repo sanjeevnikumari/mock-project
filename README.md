@@ -50,12 +50,11 @@ An AI-powered web application that helps users practice mock interviews — both
 ## 📸 Screenshots
 
 <img width="1360" height="683" alt="project - Google Chrome 7_10_2025 4_22_47 AM (2)" src="https://github.com/user-attachments/assets/31967df0-3af5-4d1e-a548-afaf6648e74d" />
-
 <img width="1366" height="728" alt="project - Google Chrome 7_10_2025 4_23_51 AM" src="https://github.com/user-attachments/assets/e262982d-ed68-478c-8a51-28b61b814d43" />
 <img width="1366" height="728" alt="project - Google Chrome 7_10_2025 4_24_03 AM" src="https://github.com/user-attachments/assets/188cc53e-0df6-4b9b-881d-851342e4e01a" />
 <img width="1366" height="728" alt="project - Google Chrome 7_10_2025 4_22_57 AM" src="https://github.com/user-attachments/assets/783e066a-e626-4cfb-a453-c34724e41183" />
-<img width="1366" height="728" alt="project - Google Chrome 7_10_2025 4_24_03 AM" src="https://github.com/user-attachments/assets/5233af69-080b-4048-9136-168ab3bf7b04" />
-![WhatsApp Image 2025-07-10 at 4 44 13 AM](https://github.com/user-attachments/assets/2698554c-7fbb-42b3-9daf-511cdd76f066)
+<img width="1366" height="728" alt="464702408-2698554c-7fbb-42b3-9daf-511cdd76f066 jpeg (1280×720) - Google Chrome 7_10_2025 4_46_26 AM" src="https://github.com/user-attachments/assets/351abd18-6e1d-4322-b14d-badea086f0e5" />
+
 
 
 ---
